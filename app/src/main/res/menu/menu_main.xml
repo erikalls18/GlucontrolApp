@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    >
+
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/baseline_home"
+            android:title="Home"
+
+            app:showAsAction="never">
+        </item>
+
+        <item
+            android:id="@+id/account"
+            android:title="@string/create_account"
+            app:showAsAction="never">
+
+        </item>
+
+        <item
+            android:id="@+id/singIn"
+            android:title="@string/login"
+            app:showAsAction="never"
+           >
+        </item>
+
+
+        <item
+        android:id="@+id/medication_card"
+        android:title="@string/medications"
+       >
+        </item>
+
+        <item
+            android:id="@+id/history"
+            android:title="@string/history"
+            app:showAsAction="never">
+
+        </item>
+
+
+        <item
+            android:id="@+id/statistics"
+            android:title="@string/statistics"
+            app:showAsAction="never">
+
+        </item>
+
+
+        <item
+            android:id="@+id/logout"
+            android:title="@string/logout"
+            app:showAsAction="never"
+           >
+        </item>
+
+
+
+</menu>

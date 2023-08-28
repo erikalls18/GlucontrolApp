@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GlucontrolApp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="medications">My Medications</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sig</string>
+    <string name="statistics">Statistics</string>
+    <string name="history">My history</string>
+    <string name="valuesGlucose">Values of Glucose</string>
+    <string name="logout">Log Out</string>
+
+
+    <string name="greetings"> Wellcome  To Glucontrol</string>
+    <string name="login">Sign in</string>
+
+    <string name="newUser">Are you new? Register here</string>
+    <string name="main_title">It is time to add your daily measures </string>
+    <string name="message_medication">Medications</string>
+    <string name="button_add">Add a record </string>
+    <string name="remember_user">Remember my user </string>
+    <string name="add_dataUser">Please enter your data </string>
+    <string name="btn_add_dataUser">Submit</string>
+    <string name="genre">Genre</string>
+    <string name="tv_type_diabetes">Type of diabetes</string>
+    <string name="tv_levels">Levels of sugar in blood , mg/dL</string>
+    <string name="measure_bfood">Measure before a food</string>
+    <string name="measure_afood">Measure after a food</string>
+    <string name="btnIncrease">+</string>
+    <string name="btnDecrease">-</string>
+    <string name="default_measure">80</string>
+    <string name="default_message">Your levels of sugar in blood are normal</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_hour">Select Hour</string>
+    <string name="input_levels">Enter your measure </string>
+    <string name="empty_records">There is nothing yet </string>
+    <string name="empty_medication">If you are taking a medication is advisable to have a follow up in  the application </string>
+    <string name="empty_recrodLevel">It is time to add your first measure. Just click in the icon (+) </string>
+
+
+    <string-array name="diabetes_type">
+        <item>Prediabetes</item>
+        <item>Diabetes Type 1 </item>
+        <item>Diabetes Type 2 </item>
+
+    </string-array>
+    <string name="type_diabetes">Type of diabetes</string>
+
+
+    <string name="message_add">Enter your records here </string>
+    <string name="add_medication">Add  a medication </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

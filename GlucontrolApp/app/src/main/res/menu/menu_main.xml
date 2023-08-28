@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/account"
+        android:title="@string/create_account"
+        app:showAsAction="never"
+        android:orderInCategory="2">
+
+    </item>
+
+    <item
+        android:id="@+id/singIn"
+        android:title="@string/login"
+        app:showAsAction="never"
+        android:orderInCategory="1">
+
+    </item>
+
+    <item
+        android:id="@+id/medication"
+        android:title="@string/medication"
+        app:showAsAction="never"
+        android:orderInCategory="3">
+
+    </item>
+    <item
+        android:id="@+id/advices"
+        android:title="@string/advices"
+        app:showAsAction="never"
+        android:orderInCategory="3">
+
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        app:showAsAction="never"
+        android:orderInCategory="3">
+
+    </item>
+
+</menu>
